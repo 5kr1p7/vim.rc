@@ -1,4 +1,6 @@
 # vim.rc
+
+## Install
 ```
 sudo add-apt-repository ppa:jonathonf/vim
 sudo apt-get update
